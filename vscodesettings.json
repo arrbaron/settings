@@ -1,0 +1,47 @@
+{
+    "eslint.enable": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "html.format.preserveNewLines": false,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.accessibilitySupport": "off",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "javascript",
+        "javascriptreact"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "window.menuBarVisibility": "default",
+    "eslint.packageManager": "yarn"
+}
